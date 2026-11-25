@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """Print the one-line Monday review stored in entry.txt.
 
+Revised entry: the reviewer gives Monday one star, and Monday replies
+like a business answering a bad review -- blaming the alarm clock
+and asking for a reconsideration.
+
 Deterministic: standard library only, no network, no randomness,
 no wall-clock time. Prints the review, then runs a gate self-check
 (length under 200 characters, exactly one sentence, single line,
